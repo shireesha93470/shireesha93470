@@ -18,7 +18,7 @@
     <br/>
   - 🔭 I’m currently pursuing **Full Stack  Development**
   
-  -    Checkout my **[Resume]()**
+  -    Checkout my **[Resume](https://docs.google.com/document/d/1D0xqsJqJiK-aJxoNa-qmXapFTAhtWotaUNucrcJ1QSQ/edit?usp=sharing)**
   
   - 🌱 I’m currently learning **Full Stack Development**
   
