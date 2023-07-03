@@ -28,7 +28,7 @@
   
   - 📫 Reach me on **shireeshareddy.b2002@gmail.com**
   
-  - 💬 ask me about anything, i am happy to help
+  
   
  
   
