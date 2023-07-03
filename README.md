@@ -4,7 +4,7 @@
   
   
 
-  <img align="center" alt="Coding" width="60%" style="text-align:center" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
+  <img margin="auto" alt="Coding" width="60%" style="text-align:center" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=shireesha93470&label=Profile%20views&color=0e75b6&style=flat" alt="shireesha93470" /> </p>
   
@@ -42,8 +42,7 @@
       <img src="https://img.shields.io/badge/Node js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
       <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=JAVA&logoColor=white" alt="expressjs" />
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-      <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-      <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+      <img src="https://img.shields.io/badge/figma-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   
   </p>
