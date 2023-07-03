@@ -1,10 +1,8 @@
-<h2 align="center">
+<h2>
     Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Shireesha Bysegowni💻!
-  </h2>
-  
-  
+</h2>
 
-  <img margin="auto" alt="Coding" width="60%" style="text-align:center" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
+  <img alt="Coding" align="left" style="text-align:center;" width="100%" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=shireesha93470&label=Profile%20views&color=0e75b6&style=flat" alt="shireesha93470" /> </p>
   
